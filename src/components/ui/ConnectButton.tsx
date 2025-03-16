@@ -2,8 +2,6 @@ import React from "react";
 
 const ConnectButton = ({
   btnName,
-  icon,
-  position,
 }: {
   btnName: string;
   icon?: React.ReactNode;

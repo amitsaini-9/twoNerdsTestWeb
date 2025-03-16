@@ -1,3 +1,4 @@
+import Image from "next/image";
 import Link from "next/link";
 
 export default function CommunitySection() {
@@ -17,7 +18,7 @@ export default function CommunitySection() {
             title="Méschac Irung"
             className="size-16 rounded-full border *:size-full *:rounded-full *:object-cover"
           >
-            <img
+            <Image
               alt="John Doe"
               src="https://randomuser.me/api/portraits/men/1.jpg"
               loading="lazy"
@@ -31,7 +32,7 @@ export default function CommunitySection() {
             title="Méschac Irung"
             className="size-16 rounded-full border *:size-full *:rounded-full *:object-cover"
           >
-            <img
+            <Image
               alt="John Doe"
               src="https://randomuser.me/api/portraits/men/2.jpg"
               loading="lazy"
@@ -45,7 +46,7 @@ export default function CommunitySection() {
             title="Méschac Irung"
             className="size-16 rounded-full border *:size-full *:rounded-full *:object-cover"
           >
-            <img
+            <Image
               alt="John Doe"
               src="https://randomuser.me/api/portraits/men/3.jpg"
               loading="lazy"
@@ -59,7 +60,7 @@ export default function CommunitySection() {
             title="Méschac Irung"
             className="size-16 rounded-full border *:size-full *:rounded-full *:object-cover"
           >
-            <img
+            <Image
               alt="John Doe"
               src="https://randomuser.me/api/portraits/men/4.jpg"
               loading="lazy"
@@ -73,7 +74,7 @@ export default function CommunitySection() {
             title="Méschac Irung"
             className="size-16 rounded-full border *:size-full *:rounded-full *:object-cover"
           >
-            <img
+            <Image
               alt="John Doe"
               src="https://randomuser.me/api/portraits/men/5.jpg"
               loading="lazy"
@@ -87,7 +88,7 @@ export default function CommunitySection() {
             title="Méschac Irung"
             className="size-16 rounded-full border *:size-full *:rounded-full *:object-cover"
           >
-            <img
+            <Image
               alt="John Doe"
               src="https://randomuser.me/api/portraits/men/6.jpg"
               loading="lazy"
@@ -101,7 +102,7 @@ export default function CommunitySection() {
             title="Méschac Irung"
             className="size-16 rounded-full border *:size-full *:rounded-full *:object-cover"
           >
-            <img
+            <Image
               alt="John Doe"
               src="https://randomuser.me/api/portraits/men/7.jpg"
               loading="lazy"
@@ -115,7 +116,7 @@ export default function CommunitySection() {
             title="Méschac Irung"
             className="size-16 rounded-full border *:size-full *:rounded-full *:object-cover"
           >
-            <img
+            <Image
               alt="John Doe"
               src="https://randomuser.me/api/portraits/men/1.jpg"
               loading="lazy"
@@ -129,7 +130,7 @@ export default function CommunitySection() {
             title="Méschac Irung"
             className="size-16 rounded-full border *:size-full *:rounded-full *:object-cover"
           >
-            <img
+            <Image
               alt="John Doe"
               src="https://randomuser.me/api/portraits/men/8.jpg"
               loading="lazy"
@@ -143,7 +144,7 @@ export default function CommunitySection() {
             title="Méschac Irung"
             className="size-16 rounded-full border *:size-full *:rounded-full *:object-cover"
           >
-            <img
+            <Image
               alt="John Doe"
               src="https://randomuser.me/api/portraits/men/9.jpg"
               loading="lazy"
@@ -157,7 +158,7 @@ export default function CommunitySection() {
             title="Méschac Irung"
             className="size-16 rounded-full border *:size-full *:rounded-full *:object-cover"
           >
-            <img
+            <Image
               alt="John Doe"
               src="https://randomuser.me/api/portraits/men/10.jpg"
               loading="lazy"

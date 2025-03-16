@@ -97,7 +97,7 @@ export default function HeroSection() {
                   In the ever-evolving world of technology, staying ahead
                   isn&apos;t just an advantage—it&apos;s essential. At TwoNerds,
                   we bring cutting-edge solutions tailored to your unique
-                  business needs. Whether you're launching a new venture or
+                  business needs. Whether you&apos;re launching a new venture or
                   scaling an existing enterprise, our team of tech enthusiasts
                   is here to craft seamless, high-performance digital
                   experiences. From web development and software solutions to
